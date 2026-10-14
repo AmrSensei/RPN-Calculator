@@ -91,6 +91,15 @@ Run the resulting executable:
 ```bash
 ./rpn
 ```
+## Screenshots
+
+### Main Menu
+
+![RPN Calculator main menu](screenshots/menu.png)
+
+### Example Calculation
+
+![RPN Calculator evaluating an expression](screenshots/calculation.png)
 
 ## Usage
 
