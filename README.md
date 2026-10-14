@@ -75,7 +75,7 @@ cd RPN-Calculator
 Make sure you have a C++17-compatible compiler installed, such as GCC.
 
 ```bash
-g++ -std=c++17 -Wall -Wextra -Wpedantic main.cpp rpn.cpp ui.cpp -o rpn
+g++ -std=c++17 main.cpp rpn.cpp ui.cpp -o rpn
 ```
 
 Run the resulting executable:
